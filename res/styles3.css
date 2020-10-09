@@ -17,9 +17,9 @@ Colours:
  ******************************************************************************/
 /*<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700' rel='stylesheet' type='text/css'>*/
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700);
-body {background-color: #23dcb2;}
+body {background-color: #ff6800;}
 body {
-    background-color: #23dcb2;
+    background-color: #ff6800;
     font-size: 13px;
     font-family: "Open Sans", sans-serif !important;
     white-space: pre-wrap;
