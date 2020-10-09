@@ -19,7 +19,7 @@ Colours:
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700);
 body {background-color: coral;}
 body {
-    background-color: coral;
+    background-color: #4600ff;
     font-size: 13px;
     font-family: "Open Sans", sans-serif !important;
     white-space: pre-wrap;
